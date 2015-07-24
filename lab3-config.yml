@@ -1,3 +1,5 @@
 ---
 application :
   name : Lucky World
+server :
+  port : 8080
